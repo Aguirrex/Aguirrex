@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-## Skill Set :muscle:
+<!--- ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -16,6 +16,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>|<img alt="C#" title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img title="js" alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
 |--|--|--|--|
+--->
 
 <!---**Libraries and Frameworks**
 
